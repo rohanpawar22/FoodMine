@@ -1,3 +1,12 @@
+# 2.0
+1. Created food.ts interface for food objects in models.
+2. Created data.ts and added dummy food object data.
+3. Created Home component, added html ts css for it. showing all the data.ts list in home component.
+4. Created star rating component. used it in home component.
+5. Created food images and star images under assests.
+6. Created food service to get all food data from data.ts
+
+
 # 1.0
 1. Created components folder, created partials folder inside of components.
 2. Created Header component inside partials.
