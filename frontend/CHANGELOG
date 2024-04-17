@@ -1,0 +1,4 @@
+# 1.0
+1. Created components folder, created partials folder inside of components.
+2. Created Header component inside partials.
+3. Added html and styles for header component.
