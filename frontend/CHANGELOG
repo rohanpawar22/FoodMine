@@ -1,3 +1,10 @@
+# 3.0
+1. Created Search component. using it in home component.
+2. Added router outlet
+3. Added method for search in services.
+4. Added routes for components.
+
+
 # 2.0
 1. Created food.ts interface for food objects in models.
 2. Created data.ts and added dummy food object data.
