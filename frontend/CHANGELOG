@@ -1,3 +1,10 @@
+# 4.0
+1. Added tags sample data in data.ts
+2. Created tags component, using it in home component.
+3. Created food-page component, added html css and logic ts for it.
+4. Added methods to get tags, food by id in food service.
+
+
 # 3.0
 1. Created Search component. using it in home component.
 2. Added router outlet
