@@ -1,3 +1,8 @@
+# 6.0
+1. Created Not Found component.
+2. Used it in Cart-page, home, food-page.
+
+
 # 5.0
 1. Added cart-page component and functionality.
 2. Added title component.
