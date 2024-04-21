@@ -1,3 +1,10 @@
+# 8.0
+1. Added httpClientModule in app module.
+2. Modified the food service file to use api names.
+3. Added urls.ts file with api names and port.
+4. Modified food-page, tags and home ts to subscribe and get the data from backend.
+
+
 # 7.0
 1. Added backend folder.
 2. Moved changelog outside of frontend folder.
