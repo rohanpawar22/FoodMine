@@ -1,3 +1,11 @@
+# 7.0
+1. Added backend folder.
+2. Moved changelog outside of frontend folder.
+3. Added src folder inside backend, added data.ts and server.ts file.
+4. installed nodemon, node for backend.
+5. Created API's to get the food list, tag list, food by id, food by tags.
+
+
 # 6.0
 1. Created Not Found component.
 2. Used it in Cart-page, home, food-page.
