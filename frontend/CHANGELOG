@@ -1,3 +1,10 @@
+# 5.0
+1. Added cart-page component and functionality.
+2. Added title component.
+3. Added cart.ts and cartItem.ts model
+4. Made the header cart count dynamic.
+
+
 # 4.0
 1. Added tags sample data in data.ts
 2. Created tags component, using it in home component.
