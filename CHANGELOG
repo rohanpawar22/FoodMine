@@ -1,3 +1,8 @@
+# 10.0
+1. Added Input-container, input-validation, text-input, default-button components.
+2. Used all of them in login-page component.
+
+
 # 9.0
 1. Added ngx-toastr
 2. Added login component
