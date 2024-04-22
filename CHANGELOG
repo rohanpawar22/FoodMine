@@ -1,3 +1,12 @@
+# 9.0
+1. Added ngx-toastr
+2. Added login component
+3. Added user service.
+4. Created login api.
+5. Installed jwtWebToken json token.
+6. Integrated login api, handled login and logout functionality
+
+
 # 8.0
 1. Added httpClientModule in app module.
 2. Modified the food service file to use api names.
